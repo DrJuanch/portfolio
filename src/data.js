@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Html, bootstrap and css practice",
     description:
       "Here I replied a marketplace called Anefty to practice with html and css, z-index, position relative and absolute and much more",
-    image: "./anefty.gif",
+    image: 'https://user-images.githubusercontent.com/114111298/226944607-489fb75a-64ce-4fa3-a290-2d5601f67d39.gif',
     link: "https://drjuanch.github.io/NFTS_MARKETPLACE/",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React API",
     description:
       "I used the rick and morty API to create this beautiful interface were you can see the whole characters of the tv show",
-    image: "",
+    image: "https://user-images.githubusercontent.com/114111298/226956878-67384b71-dd1c-4977-805f-e4fb85d50721.gif",
     link: "https://drjuanch.github.io/React_Api/",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "List of todos",
     description:
       "This is an app where you can add, mark as done and delete todos, I did it to improve my skill with javascript and I'll improve it with react",
-    image: "./assets/img/Anefty.gif",
+    image: "https://user-images.githubusercontent.com/114111298/226970129-7a8f8240-0142-4062-89d8-a8b840bbfe03.gif",
     link: "https://drjuanch.github.io/ToDo_List/",
   },
   {

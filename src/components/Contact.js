@@ -34,9 +34,6 @@ function Contact() {
                         height="100%"
                         title="map"
                         className="absolute inset-0"
-                        frameBorder={0}
-                        marginHeight={0}
-                        marginWidth={0}
                         style={{ filter: "opacity(0.7)" }}
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d254508.5164109633!2d-74.2478967034091!3d4.648283716770205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9bfd2da6cb29%3A0x239d635520a33914!2zQm9nb3TDoQ!5e0!3m2!1ses-419!2sco!4v1679469926718!5m2!1ses-419!2sco"
                     />
