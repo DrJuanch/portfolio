@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "marketplace with JS",
     description:
       "This is a practice with javascript where I improve my skill with DOM manipulation, html and css layout",
-    image: "./assets/img/Anefty.gif",
+    image: "https://user-images.githubusercontent.com/114111298/226999787-21100377-9f4c-4858-b204-4737ed4cd173.gif",
     link: "https://drjuanch.github.io/Javascript-Practice/",
   },
 ];
