@@ -1,5 +1,5 @@
 import React from "react";
-import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
+import { BadgeCheckIcon} from "@heroicons/react/solid";
 import { skills } from '../data';
 import coding from '../assets/img/coding.png'
 
