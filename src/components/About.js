@@ -1,5 +1,6 @@
 import React from "react"
 import programmer from '../assets/img/Programmer.jpg';
+import '../index.css';
 
 function About() {
     return (
@@ -9,7 +10,7 @@ function About() {
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Juan Niño
                         <br className="hidden lg:inline-block" />
-                        <br/>
+                        <br className="inactive"/>
                         I'm a fullstack developer
                     </h1>
                     <p className="mb-8 leading-relaxed">
